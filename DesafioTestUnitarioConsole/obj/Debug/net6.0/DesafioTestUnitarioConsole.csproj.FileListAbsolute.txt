@@ -1,0 +1,14 @@
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\bin\Debug\net6.0\DesafioTestUnitarioConsole.exe
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\bin\Debug\net6.0\DesafioTestUnitarioConsole.deps.json
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\bin\Debug\net6.0\DesafioTestUnitarioConsole.runtimeconfig.json
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\bin\Debug\net6.0\DesafioTestUnitarioConsole.dll
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\bin\Debug\net6.0\DesafioTestUnitarioConsole.pdb
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\obj\Debug\net6.0\DesafioTestUnitarioConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\obj\Debug\net6.0\DesafioTestUnitarioConsole.AssemblyInfoInputs.cache
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\obj\Debug\net6.0\DesafioTestUnitarioConsole.AssemblyInfo.cs
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\obj\Debug\net6.0\DesafioTestUnitarioConsole.csproj.CoreCompileInputs.cache
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\obj\Debug\net6.0\DesafioTestUnitarioConsole.dll
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\obj\Debug\net6.0\refint\DesafioTestUnitarioConsole.dll
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\obj\Debug\net6.0\DesafioTestUnitarioConsole.pdb
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\obj\Debug\net6.0\DesafioTestUnitarioConsole.genruntimeconfig.cache
+C:\DIO\DesafioTesteUnitarioDio\DesafioTestUnitarioConsole\obj\Debug\net6.0\ref\DesafioTestUnitarioConsole.dll
